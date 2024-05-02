@@ -1,0 +1,8 @@
+pandas
+pytorch
+scikit-learn
+transformers
+evaluate
+accelerate
+sentencepiece
+protobuf
